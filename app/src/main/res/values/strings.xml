@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FineCar</string>
+
+    <string name="hello_world">Тут будет список!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_btn">Вход</string>
+    <string name="title_activity_user">FineCar</string>
+</resources>
